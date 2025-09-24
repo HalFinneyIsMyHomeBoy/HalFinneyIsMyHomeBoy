@@ -1,6 +1,6 @@
 
 - I collaborate on various Bitcoin projects that I find useful like Utreexo, Floresta, and others.
-- Working on Bold Bitcoin Wallet - AKA (the poor man's multi-sig warm wallet)
+- Working on <a href="https://github.com/BoldBitcoinWallet/BBMTLib" target="_blank">Bold Bitcoin Wallet</a> AKA (the poor man's multi-sig warm wallet)
   
   Developed for people who live in a place where they can't get a hold of a hardware wallet, but don't want to risk their bitcoin on a hot wallet.
   Uses secure M-of-N multi-party computation threashold signature scheme, but all transactions appear as single-sig, which increases privacy and cheaper than traditional multi-sig.
