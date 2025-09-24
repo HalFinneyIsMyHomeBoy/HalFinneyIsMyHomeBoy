@@ -1,5 +1,3 @@
-## Hi there 👋
-
 - Working on MPC TSS Bold Bitcoin Wallet - AKA (the poor man's multi-sig warm wallet)
   
   Developed for people who live in a place where they can't get a hold of a hardware wallet, but don't want to risk their bitcoin on a hot wallet.
