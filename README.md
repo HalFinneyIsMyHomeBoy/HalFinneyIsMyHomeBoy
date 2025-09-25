@@ -5,6 +5,6 @@
   - All transactions appear on-chain as single-sig, which increases privacy and cheaper in fees than on-chain multi-sig.
   - Key generation and TX signing are transmitted via <a href="https://github.com/nostr-protocol/nips/blob/master/44.md" target="_blank">NOSTR (NIP-44)</a>.
    
-- I collaborate on various Bitcoin projects that I find useful like Utreexo, Floresta, OP_CTV Payment Pool and others.
+- I collaborate on various Bitcoin projects that I find useful like <a href="https://github.com/utreexo/utreexod" target="_blank">Utreexod</a>, <a href="https://github.com/vinteumorg/Floresta" target="_blank">Floresta</a>, <a href="https://github.com/stutxo/op_ctv_payment_pool" target="_blank">OP_CTV Payment Pool</a> and others.
 
 - Currently coding in Go and Rust after being a .NET and Python dev for most of my career.
