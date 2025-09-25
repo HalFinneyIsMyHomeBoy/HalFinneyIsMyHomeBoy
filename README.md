@@ -6,4 +6,4 @@
   Uses secure M-of-N multi-party computation threashold signature scheme, but all transactions appear as single-sig, which increases privacy and cheaper than traditional multi-sig.
   Keygen and signing are done over NOSTR network.
 
-- I’m currently learning Go and Rust after being a .NET and Python dev most of my career.
+- I’m currently working with Go and Rust after being a .NET and Python dev most of my career.
