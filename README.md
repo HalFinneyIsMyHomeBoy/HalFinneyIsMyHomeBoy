@@ -1,3 +1,6 @@
+
+- I love Linux, Bitcoin, NOSTR, Proxmox, building electronics, and computer security.
+  
 - Working on <a href="https://github.com/BoldBitcoinWallet/BBMTLib" target="_blank">Bold Bitcoin Wallet Library</a> AKA (the poor man's multi-sig warm wallet)
   
   - Developed for people who live where obtaining a hardware wallet isn't possible, but don't want to risk their bitcoin on a single-sig hot wallet.
@@ -6,5 +9,5 @@
   - Key generation and TX signing are transmitted via <a href="https://github.com/nostr-protocol/nips/blob/master/44.md" target="_blank">NOSTR (NIP-44)</a>.
    
 - I collaborate on various Bitcoin projects that I find useful like <a href="https://github.com/utreexo/utreexod" target="_blank">Utreexod</a>, <a href="https://github.com/vinteumorg/Floresta" target="_blank">Floresta</a>, <a href="https://github.com/stutxo/op_ctv_payment_pool" target="_blank">OP_CTV Payment Pool</a> and others.
-
-- Currently coding in Go and Rust after being a .NET and Python dev for most of my career.
+  
+- Migrated to primarily using Go and Rust after being a .NET and Python dev for most of my career.
