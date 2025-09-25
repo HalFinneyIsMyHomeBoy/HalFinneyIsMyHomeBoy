@@ -7,4 +7,3 @@
   Keygen and signing are done over NOSTR network.
 
 - I’m currently learning Go and Rust after being a .NET and Python dev most of my career.
-- Quit my fiat job last year to pursue development in the Bitcoin space, never looking back and never been happier.
