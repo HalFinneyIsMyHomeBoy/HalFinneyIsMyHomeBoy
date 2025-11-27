@@ -9,5 +9,5 @@
   - Key generation and TX signing are transmitted via <a href="https://github.com/nostr-protocol/nips/blob/master/44.md" target="_blank">NOSTR (NIP-44) v2</a> encryption, then <a href="https://www.e2encrypted.com/nostr/nips/59/" target="_blank">Rumor/Seal/Wrap method</a> for added security.
    
 - I collaborate on various Bitcoin projects that I find useful like <a href="https://github.com/utreexo/utreexod" target="_blank">Utreexod</a>, <a href="https://github.com/vinteumorg/Floresta" target="_blank">Floresta</a>, <a href="https://github.com/stutxo/op_ctv_payment_pool" target="_blank">OP_CTV Payment Pool</a> and others.
-  
+- Currently experimenting/researching the Ark protocol and different implementations/proof of concepts like Bark and Arkade.
 - Migrated to primarily using Go and Rust after being a C# .NET and Python dev for most of my career.
